@@ -8,11 +8,11 @@ Api rest de gestion de productos basica.
 
 #### Instalacion
 
-- Copiar el SSH y clonar en local con git clone
+- Copiar el SSH y clonar en local con git clone desde el CMD.
 
-- Dentro encontraras un archivo .sql ejecutalo para iniciar la base de datos.
+- Dentro encontraras un archivo .sql que tendras que ejecutar para iniciar la base de datos.
 
-- Deberan abrir su ide de preferencia y seleccionar el proyecto.
+- Deberan abrir su ide de preferencia y seleccionar el proyecto clonado.
 
 - Seleccionar el proyecto en el Boot dashboard e iniciarlo, spring se encargara de levantar el tomcat.
 
