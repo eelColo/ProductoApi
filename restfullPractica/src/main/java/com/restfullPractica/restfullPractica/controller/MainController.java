@@ -51,7 +51,7 @@ public class MainController {
 	}
 	
 	//Listar todos los productos por precio
-	@GetMapping("/productobyprice")
+	@GetMapping("/productoporprecio")
 	public List<Producto> listProductByPrice(){
 		return prodServ.listProductByPrice();
 	}
