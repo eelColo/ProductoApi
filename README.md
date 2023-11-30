@@ -10,7 +10,7 @@ Api rest de gestion de productos basica.
 
 - Copiar el SSH y clonar en local con git clone
 
-![Copiar repositorio] (https://raw.githubusercontent.com/eelColo/ProductoApi/main/assets/gitclone.png)
+![Copiar repositorio] (https://raw.githubusercontent.com/eelColo/ProductoApi/master/assets/gitclone.png)
 
 
 - Dentro encontraras un archivo .sql ejecutalo para iniciar la base de datos.
