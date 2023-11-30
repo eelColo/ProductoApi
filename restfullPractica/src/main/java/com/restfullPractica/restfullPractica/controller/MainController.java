@@ -37,22 +37,7 @@ public class MainController {
 	@PutMapping("/producto/{id}")
 	public void editProduct(@PathVariable(value = "id") int idProd, @RequestBody Producto producto) {
 		
-		if(prodServ.findProductById(idProd) !=  null) {
-		//validacion
-			
-			if(producto.getNombre().equals("")) {
-			
-			}
-			if(producto.getDescripcion().equals("")) {
-			
-			}
-			if(producto.getCantidad() <= 0) {
-			
-			}
-			if(producto.getPrecio() <= 0) {
-			
-			}
-		}
+		
 		
 		prodServ.editProduct(idProd, producto);
 		
